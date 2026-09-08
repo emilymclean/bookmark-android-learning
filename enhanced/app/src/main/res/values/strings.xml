@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bookmark</string>
+    <string name="error_something_went_wrong">Something went wrong</string>
+    <string name="error_retry">Retry</string>
+    <string name="bookmark_save">Save Bookmark</string>
+    <string name="bookmark_current_page">Current Page</string>
+    <string name="bookmark_title">Title</string>
+    <string name="bookmark_entry_title">Bookmark</string>
+    <string name="bookmark_entry_add">Add Bookmark</string>
+</resources>
